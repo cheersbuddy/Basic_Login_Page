@@ -15,4 +15,8 @@ Features
 
 - Submit Button Animation: The submit button has a subtle hover animation, providing feedback to users.
 
+Customization
+Feel free to customize the login page to suit your specific needs. You can change the background image, adjust the form styling, or modify any other elements to align with your project's design .
 
+Contributors
+Sowmiya
